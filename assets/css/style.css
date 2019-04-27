@@ -1,0 +1,103 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	margin:0; 
+	padding:0;
+	background:url(../images/bg1.jpg);
+	background-attachment:fixed;
+	background-repeat:no-repeat;
+	}
+h1{ 
+	font-weight:500;
+	color:#000;
+	padding-top:15px;
+	}
+.bg{
+	background:linear-gradient( to top, #A60000, #F60, #800);
+	font-size:15px; 
+	font-weight:400;
+	padding:0;
+	margin:0;
+	border-top-left-radius:20px;
+	border-bottom-right-radius:20px;
+	}
+	.nav >li {
+		border-right:1px solid #666;
+		}
+	.navbar { border-radius:none; border-color:none;}
+	
+.bg a{
+	color:#fff;
+	}
+	
+.bg a:hover{
+	color:#060;
+	}
+	.nav li a:hover{color:#000;}
+h3, h4 { 
+	background:linear-gradient( to top, #A60000, #F60, #800);
+	border-radius:8px;
+	text-align:center;
+	color:#fff;
+	padding:6px 5px;}
+.meeting { border-radius:8px; padding:2px 40px; background:#fff; color:#000;}
+.meeting a { color:#000}
+.notice { padding:0px 10px; color:#D96C00; padding-top:10px; }
+.notice a { color:#000}
+.img { border:1px solid #000}
+
+#footer{
+text-align:center;
+background:#F2F2F2;
+color:#000;
+letter-spacing:1px;
+padding:20px 100px;
+/* height:100%; */
+border-bottom-right-radius:20px;}
+.important{ text-align:left; color:#D96C00;}
+.important a{color:#D96C00;}
+.important >li { border-bottom:1px dotted #039; padding:4px 0px; list-style-type:none;margin-left: -30px;}
+.recent{background:linear-gradient( to top, #FF0606, #B00000, #FF3737); color:#fff; padding:5px; text-align:center; font-size:16px;}
+.recent1 a { font-size:14px; padding:5px; color:#06C;}
+.social_icon{
+	width:30px; 
+	float:right; 
+	padding:3px;
+	}
+	
+.social_icon:hover{
+	background:#FFF; 
+	border:2px solid #000; 
+	border-radius:100px;
+	}
+	.icon-bar{
+	background:#fff;
+	}
+.text_color a{ color:#D96C00;}
+#imp {list-style-image:url(images/bullet-icon1.html);
+text-transform:capitalize;
+margin-bottom:0px;
+
+}
+.meeting >li { border-bottom:1px dashed #039; padding: 8px 0px;list-style-type: none}
+.report{font-size:16px; text-align:center; padding:10px 0px; background:#CCC; color:#000 }
+.report_container{ background:#fff; color:#039; font-weight:600;border:1px solid #3F9}
+.border { border:1px solid #005279; padding:10px 0px; text-align:center}
+.sel_list{ width:100%; height:30px;}
+
+#marquee { height:200px;}
+.screen{
+	float: right;
+    padding-right: 107px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+}
+.screen a{color:#060808}
+.screen_reader{background:#fff;font-size:16px}
+.screen_reader a{font-size:16px}
+.table {border:1px solid #ccc}
+.table-bordered>tbody>tr>td, .table-bordered>tbody>tr>th, .table-bordered>tfoot>tr>td, .table-bordered>tfoot>tr>th, .table-bordered>thead>tr>td, .table-bordered>thead>tr>th {
+    border: 1px solid #ccc;
+}
