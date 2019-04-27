@@ -30,7 +30,7 @@ document.write(now.toLocaleTimeString());
   <div class="row">
     <div class="col-sm-2" style="padding:10px;" align="center"><a href="http://basiceducationup.com/"><img src="<?php echo base_url()?>assets/images/logo.png" width="100"></a></div>
     <div class="col-sm-5" >
-      <h1 style="font-weight: 600;">बेसिक शिक्षा विभाग  उo प्रo</h1>
+      <h1 style="font-size:30px;"><b>बेसिक शिक्षा विभाग कानपुर देहात</b></h1>
     </div>
     <div class="col-sm-3 text-right"><img src="<?php echo base_url()?>assets/images/serv.png" width="300"></div>
     <div class="col-sm-2 text-center"><img src="<?php echo base_url()?>assets/images/indianembelem.png" width="100"></div>
@@ -55,11 +55,10 @@ document.write(now.toLocaleTimeString());
 			</ul>
          </li>
           <li><a href="<?php echo base_url();?>index.php/welcome/shasna">शासनादेश</a></li>
-          <li><a href="<?php echo base_url();?>index.php/welcome/rtipage" >विद्यालय सूची </a></li>
-          <ul class="dropdown-menu">
-          <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">विद्यालय सूची <span class="caret"></span></a>
-          <li><a href="<?php echo base_url();?>index.php/welcome/rtipage"> </a></li>
-          </ul>
+          <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">विद्यालय सूची<span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a href="<?php echo base_url();?>">मान्यता प्राप्त विद्यालय</a></li>
+			</ul>
          <li><a href="<?php echo base_url();?>index.php/welcome/rtepage">आर टी ई </a></li>
           <li><a href="<?php echo base_url();?>index.php/welcome/report">रिपोर्ट </a></a>
           <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">मल्टीमीडिया <span class="caret"></span></a>

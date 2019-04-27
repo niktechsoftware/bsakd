@@ -37,14 +37,14 @@
 <div class="container" id="footer">
 	<p>
 		<a href="<?php echo base_url();?>">मुख्य पृष्ठ </a>| 
-		<a href="<?php echo base_url();?>disagree.html">अस्वीकरण </a>| 
-		<a href="<?php echo base_url();?>accessibility_statement.html">अभिगम्यता वक्तव्य </a>| 
-		<a href="<?php echo base_url();?>website_rules.html">वेबसाइट नीतियां</a> | 
-		<a href="<?php echo base_url();?>rules_n_regulation.html">नियम एवं शर्तें</a> | 
-		<a href="<?php echo base_url();?>reaction.html"> प्रतिक्रिया </a> | 
+		<a href="<?php echo base_url();?>index.php/welcome/disagrees">अस्वीकरण </a>| 
+		<a href="<?php echo base_url();?>index.php/welcome/accessibility_statement">अभिगम्यता वक्तव्य </a>| 
+		<a href="<?php echo base_url();?>index.php/welcome/website_rules">वेबसाइट नीतियां</a> | 
+		<a href="<?php echo base_url();?>index.php/welcome/rules_n_regulation">नियम एवं शर्तें</a> | 
+		<a href="<?php echo base_url();?>index.php/welcome/reaction"> प्रतिक्रिया </a> | 
 		<a href="<?php echo base_url();?>index.php/welcome/contact"> संपर्क करें </a> | 
-		<a href="<?php echo base_url();?>sitemap.html"> साइटमैप  | 
-		<a href="<?php echo base_url();?>">सहायता</a>
+		<a href="<?php echo base_url();?>index.php/welcome/sitemap"> साइटमैप  | 
+		<a href="<?php echo base_url();?>index.php/welcome/help">सहायता</a>
 		<br>Copyrights@2018 Directorate of Basic Education | Developed by <a href="http://shauryaditya.com/" target="_blank" style="color:pink">Shauryaditya Solutions Pvt Ltd</a> 
 		<div align='center'><a href='http://www.free-website-hit-counter.com/'></a><br / >
 		<small><a href='http://www.shauryaditya.com/' title="free website hit counter">Visitor Counter</a></small></div>

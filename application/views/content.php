@@ -12,7 +12,7 @@
  <h3>उत्कृष्टता  सूची  </h3>
  <ul class="meeting text_color" >
       <li><a href="<?php echo base_url();?>"><i class="fa fa-angle-double-right"></i> प्रतिभाशाली छात्र </a></li>
-      <li><a href="school_information"><i class="fa fa-angle-double-right"></i> माह का उत्कृष्ट विद्यालय</a></li>
+      <li><a href="<?php echo base_url();?>index.php/welcome/school_information"><i class="fa fa-angle-double-right"></i> माह का उत्कृष्ट विद्यालय</a></li>
 	  <li><a href="https://basiceducationup.com/assets/pdf/UP_2015.pdf" target="_blank"><i class="fa fa-angle-double-right"></i> पुरुस्कृत   अध्यापक</a></li>
 	  <li><a href="<?php echo base_url();?>"><i class="fa fa-angle-double-right"></i> माह का उत्कृष्ट कार्मिक </a></li>
 	</ul>

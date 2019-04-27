@@ -8,12 +8,9 @@
 </style>
   <div class="container contact">
     <div class="row" style="background:rgba(0,0,0,0.5); padding:30px 10px;"> <h2 align="center" style="color:#F60">संपर्क करें</h2> 
-        <div class="col-sm-4 add"><p style="color:#fff"><strong>पता: - </strong>बेसिक शिक्षा निदेशालय , उ.प्र. <br />
-          विद्या  भवन  निशातगंज <br /> 
-          लखनऊ उ प्र (226007) 
-          <br />
-          <strong>फ़ोन :- </strong>0522-2780391  </strong><br />
-          <strong>ईमेल  :-</strong> info@basiceducationup.com</strong></p></div>
+        <div class="col-sm-4 add"><p style="color:#fff"><strong>पता: - </strong>बेसिक शिक्षा निदेशालय , कानपुर देहात <br />
+          <strong>फ़ोन :- </strong>9453004157 </strong><br />
+          <strong>ईमेल  :-</strong> info@basiceducationkd.com</strong></p></div>
           <div class="col-sm-8">
           	<div class="row" style="padding:5px 5px;">
                           	<form method="POST" action="https://basiceducationup.com/website/add_contact_details">

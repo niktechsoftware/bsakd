@@ -27,11 +27,11 @@ $this->load->view('all',$data);
 		$data['page']='shasnadesh';
 		$this->load->view('all',$data);
 	}
-	// public function rtipage()
-	// {
-	// 	$data['page']='rti';
-	// 	$this->load->view('all',$data);
-	// }
+	public function school_list()
+	{
+		$data['page']='list';
+		$this->load->view('all',$data);
+	}
 	public function rtepage()
 	{
 		$data['page']='rte';
@@ -72,5 +72,54 @@ $this->load->view('all',$data);
 		$data['page']='school';
 		$this->load->view('all',$data);
 	}
+	public function disagrees()
+	{
+		$data['page']='disagree';
+		$this->load->view('all',$data);
+	}
+	public function accessibility_statement()
+	{
+		$data['page']='accessibility';
+		$this->load->view('all',$data);
+	}
+	public function website_rules()
+	{
+		$data['page']='websiterule';
+		$this->load->view('all',$data);
+	}
+	public function rules_n_regulation()
+	{
+		$data['page']='rulesregulation';
+		$this->load->view('all',$data);
+	}
+	public function reaction()
+	{
+		$data['page']='reactions';
+		$this->load->view('all',$data);
+	}
+	public function sitemap()
+	{
+		$data['page']='sitemaps';
+		$this->load->view('all',$data);
+	}
+	public function help()
+	{
+		$data['page']='helps';
+		$this->load->view('all',$data);
+	}
+	public function copyrights()
+	{
+		$data['page']='copyright';
+		$this->load->view('all',$data);
+	}
+	public function privacy_policy()
+	{
+		$data['page']='privacy';
+		$this->load->view('all',$data);
+	}
+	public function hyperlink_policy()
+	{
+		$data['page']='hyperlink';
+		$this->load->view('all',$data);
+	}
 }
-
