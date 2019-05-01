@@ -58,6 +58,7 @@ document.write(now.toLocaleTimeString());
           <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">विद्यालय सूची<span class="caret"></span></a>
             <ul class="dropdown-menu">
               <li><a href="<?php echo base_url();?>">मान्यता प्राप्त विद्यालय</a></li>
+              <li><a href="<?php echo base_url();?>assets/besice shiksha 001.pdf">परिलब्धियां</a></li>
 			</ul>
          <li><a href="<?php echo base_url();?>index.php/welcome/rtepage">आर टी ई </a></li>
           <li><a href="<?php echo base_url();?>index.php/welcome/report">रिपोर्ट </a></a>
