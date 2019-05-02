@@ -7,7 +7,7 @@
 .e-pothi a {font-size:16px; text-decoration:none;text-shadow:1px 1px 2px black;font-weight:600; color:#fff}
 </style>
 <div class="col-sm-3 notice" id="imp">
- <h3>उत्कृष्टता  सूची  </h3>
+ <h3 style="margin-top:0;">उत्कृष्टता  सूची  </h3>
  <ul class="meeting text_color" >
       <li><a href="<?php echo base_url();?>"><i class="fa fa-angle-double-right"></i> प्रतिभाशाली छात्र </a></li>
       <li><a href="<?php echo base_url();?>index.php/welcome/school_information"><i class="fa fa-angle-double-right"></i> माह का उत्कृष्ट विद्यालय</a></li>
