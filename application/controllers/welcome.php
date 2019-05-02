@@ -122,4 +122,29 @@ $this->load->view('all',$data);
 		$data['page']='hyperlink';
 		$this->load->view('all',$data);
 	}
+	public function storydetails()
+	{
+		$data['page']='story';
+		$this->load->view('all',$data);
+	}
+	public function gondaschool()
+	{
+		$data['page']='gonda';
+		$this->load->view('all',$data);
+	}
+	public function badaunschool()
+	{
+		$data['page']='badaun';
+		$this->load->view('all',$data);
+	}
+	public function gorakhpurschool()
+	{
+		$data['page']='gorakhpur';
+		$this->load->view('all',$data);
+	}
+	public function meerut()
+	{
+		$data['page']='meerutschool';
+		$this->load->view('all',$data);
+	}
 }

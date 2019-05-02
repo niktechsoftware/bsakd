@@ -15,7 +15,7 @@
           	<div class="row" style="padding:5px 5px;">
                           	<form method="POST" action="https://basiceducationup.com/website/add_contact_details">
             	<div class="col-sm-6">
-                	<input type="text" placeholder="अपना नाम यहाँ दर्ज करेंे" class="form" name="name" required="required">
+                	<input type="text" placeholder="अपना नाम यहाँ दर्ज करें" class="form" name="name" required="required">
                     <input type="text" placeholder="अपना विषय यहाँ दर्ज करें" class="form" name="subject" required="required"> 
                     <input type="text" placeholder="मोबाइल नंबर यहां दर्ज करें" class="form" name="mobile" required="required">
                     <input type="email" placeholder="अपना ईमेल पता यहां पर दर्ज करें" class="form" name="email" required="required">
@@ -27,8 +27,8 @@
           	</div>
           </div>
          </div>
-         <!---------------------------------------google map----------------------------->
+        
           <div class="row" style="background:#fff">
     <div class="col-sm-12" >
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3559.1960046710187!2d80.95253081452222!3d26.865513083147917!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399bfd6ddc2e7ff5%3A0x237d673d018c3011!2sUttar+Pradesh+Basic+Education+Council!5e0!3m2!1sen!2sin!4v1496658343542" width="100%" height="450" frameborder="0" style="border:1px solid #CCC" allowfullscreen></iframe></div>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3574.9058664653335!2d79.95656721435319!3d26.361906489931776!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399db7260bfb0863%3A0x6359e71fa4d54324!2sbsa+Office+Kanpur+Dehat!5e0!3m2!1sen!2sin!4v1556703505659!5m2!1sen!2sin" width="100%" height="450" frameborder="0" style="border:1px solid #CCC" allowfullscreen></iframe></div>
    </div></div></div>

@@ -25,7 +25,7 @@ h2{background:#066; width:100%; text-align:center; padding:10px; border-radius:5
         <div class="col-sm-2">December</div>
         <div class="col-sm-3">प्राथमिक विद्यालय भगवानपुरा</div>
         <div class="col-sm-2">Etawa</div>
-        <div class="col-sm-2"><a href="story_details.html" style="color:red">Click</a></div>
+        <div class="col-sm-2"><a href="<?php echo base_url();?>index.php/welcome/storydetails" style="color:red">Click</a></div>
      </div>
      <div class="row text-center border">
     	<div class="col-sm-1">02. </div>
@@ -33,7 +33,7 @@ h2{background:#066; width:100%; text-align:center; padding:10px; border-radius:5
         <div class="col-sm-2">January</div>
         <div class="col-sm-3">प्राथमिक विद्यालय धौरहरा कर्नलगंज</div>
         <div class="col-sm-2">Gonda</div>
-        <div class="col-sm-2"><a href="gondaschool.html" style="color:red">Click</a></div>
+        <div class="col-sm-2"><a href="<?php echo base_url();?>index.php/welcome/gondaschool" style="color:red">Click</a></div>
      </div>
      <div class="row text-center border">
     	<div class="col-sm-1">03. </div>
@@ -41,7 +41,7 @@ h2{background:#066; width:100%; text-align:center; padding:10px; border-radius:5
         <div class="col-sm-2">April</div>
         <div class="col-sm-3">पूर्व माध्यमिक विद्यालय गोठा विकास क्षेत्र वजीरगंज जनपद बदायूं</div>
         <div class="col-sm-2">Bandau</div>
-        <div class="col-sm-2"><a href="badaunschool.html" style="color:red">Click</a></div>
+        <div class="col-sm-2"><a href="<?php echo base_url();?>index.php/welcome/badaunschool" style="color:red">Click</a></div>
      </div>
      <div class="row text-center border">
     	<div class="col-sm-1">04. </div>
@@ -49,7 +49,7 @@ h2{background:#066; width:100%; text-align:center; padding:10px; border-radius:5
         <div class="col-sm-2">May</div>
         <div class="col-sm-3">प्राथमिक विद्यालय महुजा शिक्षा क्षेत्र - कौड़ीराम, गोरखपुर प्रवेश प्रारम्भ सत्र २०१८-१९</div>
         <div class="col-sm-2">Gorakhpur</div>
-        <div class="col-sm-2"><a href="gorakhpurschool.html" style="color:red">Click</a></div>
+        <div class="col-sm-2"><a href="<?php echo base_url();?>index.php/welcome/gorakhpurschool" style="color:red">Click</a></div>
      </div>
      <div class="row text-center border">
         <div class="col-sm-1">05. </div>
@@ -57,7 +57,7 @@ h2{background:#066; width:100%; text-align:center; padding:10px; border-radius:5
         <div class="col-sm-2">December</div>
         <div class="col-sm-3">प्राइमरी विद्यालय, रजपुरा </div>
         <div class="col-sm-2">Meerut</div>
-        <div class="col-sm-2"><a href="meerut.html" style="color:red">Click</a></div>
+        <div class="col-sm-2"><a href="<?php echo base_url();?>index.php/welcome/meerut" style="color:red">Click</a></div>
      </div>
    
 </div>
