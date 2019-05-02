@@ -29,16 +29,27 @@
         	<ul class="meeting text_color">
              			</ul>
    	<h3>प्रशिक्षण/कार्यशाला</h3>
+     <marquee id="marquee" scrollamount="2" direction="down" onMouseOver="this.stop();"  onmouseout="this.start();">
     <ul class="meeting text_color" >
-      	</ul>
-    <h3>प्रमुख जानकारी </h3>
-    <marquee id="marquee" scrollamount="2" direction="down" onMouseOver="this.stop();"  onmouseout="this.start();">
-    <ul class="meeting text_color" >
-                  <li>
+    <li>
               <a href="https://basiceducationup.com/common_doc/upbasic.pdf" target="_blank">
                 <i class="fa fa-angle-double-right"></i> उत्तर प्रदेश बेसिक शिक्षा (अध्यापक) सेवा नियमावली  
               </a>
             </li>
+            <li>
+              <a href="https://basiceducationup.com/common_doc/RTE-11H.pdf" target="_blank">
+                <i class="fa fa-angle-double-right"></i> उ० प्र० आर० टी० ई० नियमावली 
+              </a>
+            </li>
+                    <li>
+              <a href="https://basiceducationup.com/common_doc/SSA_Frame_work_(revised)_9-6-2011.pdf" target="_blank">
+                <i class="fa fa-angle-double-right"></i> सर्व शिक्षा अभियान फ्रेमवर्क 2011 
+              </a>
+            </li>
+      	</ul></marquee>
+    <h3>प्रमुख जानकारी </h3>
+    <marquee id="marquee" scrollamount="2" direction="down" onMouseOver="this.stop();"  onmouseout="this.start();">
+    <ul class="meeting text_color" >
                     <li>
               <a href="https://basiceducationup.com/common_doc/U-DISE Format for (CLASS 1-12) 2016-17.docx" target="_blank">
                 <i class="fa fa-angle-double-right"></i> आँकड़ा अभिग्रहण पत्र (यू-डायस डी.सी.एफ़.) 2016-17 
@@ -47,16 +58,6 @@
                     <li>
               <a href="https://basiceducationup.com/common_doc/NIRDESH_UDISE 2016-17.doc" target="_blank">
                 <i class="fa fa-angle-double-right"></i> यू डायस डाटा निर्देश पुस्तिका 
-              </a>
-            </li>
-                    <li>
-              <a href="https://basiceducationup.com/common_doc/RTE-11H.pdf" target="_blank">
-                <i class="fa fa-angle-double-right"></i> उ० प्र० आर० टी० ई० नियमावली 
-              </a>
-            </li>
-                    <li>
-              <a href="https://basiceducationup.com/common_doc/SSA_Frame_work_(revised)_9-6-2011.pdf" target="_blank">
-                <i class="fa fa-angle-double-right"></i> सर्व शिक्षा अभियान फ्रेमवर्क 2011 
               </a>
             </li>
             </ul></marquee><br>
@@ -100,13 +101,13 @@
 </div>
 </div>
 <div class="col-sm-2 text-center notice">
-  <img src="<?php echo base_url()?>assets/images/men.jpg" height="100" class="img-thumbnail img" width="100" />
+  <img src="<?php echo base_url()?>assets/images/Yogi-4.jpg" height="100" class="img-thumbnail img" width="100" />
   <p>माननीय मुख्यमंत्री </p>
   <p><img src="<?php echo base_url()?>assets/images/female.jpg" height="100" class="img-thumbnail img" width="100" />
   <p>माननीय राज्यमंत्री <br>(स्वतंत्र प्रभार),<br> बेसिक शिक्षा</p>
   <p><img src="<?php echo base_url()?>assets/images/men.jpg" height="100" class="img-thumbnail img" width="100" />
   <p>माननीय राज्य मंत्री,<br> बेसिक शिक्षा</p>
-    <p><img src="<?php echo base_url()?>assets/images/Basic%20shiksha.jpg" class="img-thumbnail img" height="100" width="100">
+    <p><img src="<?php echo base_url()?>assets/images/men.jpg" class="img-thumbnail img" height="100" width="100">
   <p>डॉ सर्वेंद्र  विक्रम  बहादुर सिंह <br />शिक्षा निदेशक बेसिक(उ.प्र.)  
   <h4>महत्वपूर्ण लिंक </h4>
   <ul class="important"  id="imp">
