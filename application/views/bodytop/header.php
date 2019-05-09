@@ -49,7 +49,7 @@ document.write(now.toLocaleTimeString());
           <li><a href="<?php echo base_url();?>index.php/welcome/about">हमारे  बारे में </a></li>
           <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">संगठनात्मक ढांचा <span class="caret"></span></a>
           <ul class="dropdown-menu">
-              <li><a href="https://basiceducationup.com/assets/pdf/structure.pdf">संगठनात्मक प्रारूप</a></li>
+              <li><a href="https://basiceducationup.com/assets/pdf/structure.pdf" target="_blank">संगठनात्मक प्रारूप</a></li>
               <li><a href="<?php echo base_url();?>index.php/welcome/structure">संगठनात्मक सदस्य </a></li>
               <li><a href="<?php echo base_url();?>index.php/welcome/member">सदस्य सूची </a></li>
 			</ul>
@@ -57,8 +57,8 @@ document.write(now.toLocaleTimeString());
           <li><a href="<?php echo base_url();?>index.php/welcome/shasna">शासनादेश</a></li>
           <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">विद्यालय सूची<span class="caret"></span></a>
             <ul class="dropdown-menu">
-              <li><a href="<?php echo base_url();?>assets/combinepdf.pdf">मान्यता प्राप्त विद्यालय</a></li>
-              <li><a href="<?php echo base_url();?>assets/besice shiksha 001.pdf">परिलब्धियां</a></li>
+              <li><a href="<?php echo base_url();?>assets/combinepdf.pdf" target="_blank">मान्यता प्राप्त विद्यालय</a></li>
+              <li><a href="<?php echo base_url();?>assets/besice shiksha 001.pdf" target="_blank">परिलब्धियां</a></li>
 			</ul>
          <li><a href="<?php echo base_url();?>index.php/welcome/rtepage">आर टी ई </a></li>
           <li><a href="<?php echo base_url();?>index.php/welcome/report">रिपोर्ट </a></a>

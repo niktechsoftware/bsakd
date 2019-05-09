@@ -103,10 +103,10 @@
 <div class="col-sm-2 text-center notice">
   <img src="<?php echo base_url()?>assets/images/Yogi-4.jpg" height="100" class="img-thumbnail img" width="100" />
   <p>माननीय मुख्यमंत्री </p>
-  <p><img src="<?php echo base_url()?>assets/images/female.jpg" height="100" class="img-thumbnail img" width="100" />
-  <p>माननीय राज्यमंत्री <br>(स्वतंत्र प्रभार),<br> बेसिक शिक्षा</p>
+  <p><img src="<?php echo base_url()?>assets/images/dm.jpg" height="100" class="img-thumbnail img" width="100" />
+  <p>माननीय जिलाधिकारी</p>
   <p><img src="<?php echo base_url()?>assets/images/men.jpg" height="100" class="img-thumbnail img" width="100" />
-  <p>माननीय राज्य मंत्री,<br> बेसिक शिक्षा</p>
+  <p>माननीय बेसिक शिक्षा अधिकारी</p>
     <p><img src="<?php echo base_url()?>assets/images/men.jpg" class="img-thumbnail img" height="100" width="100">
   <p>डॉ सर्वेंद्र  विक्रम  बहादुर सिंह <br />शिक्षा निदेशक बेसिक(उ.प्र.)  
   <h4>महत्वपूर्ण लिंक </h4>
