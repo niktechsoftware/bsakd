@@ -6,6 +6,7 @@
 </audio>
 <!===================================================Audio Play end ===============================================================>
 <p class="screen"><a href="screenread.html">Screen Reader Access</a></p>
+<p class="screen"><a href="http://sabdcollege.in/admin">Admin</a></p>
 <!===================================================Social Icon & time , date=====================================================>
 <div class="container" >
 <a href="https://www.facebook.com/UP-Basic-Education-1895607067351685/" target="_blank"><img src="<?php echo base_url()?>assets/images/facebook.png" class="social_icon"></a>
