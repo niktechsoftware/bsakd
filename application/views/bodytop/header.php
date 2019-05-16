@@ -5,14 +5,14 @@
   <source src="https://basiceducationup.com/assets/audio/mix_1m02s (audio-joiner.com).mp3" type="audio/mpeg">
 </audio>
 <!===================================================Audio Play end ===============================================================>
-<div class="screen" ><div><a href="http://basiceducationkd.in/admin" type="button" class="btn btn-primary">Admin</a><a href="#">Screen Reader Access</a></div></div>
+<div class="screen" ><div><a href="http://basiceducationkd.in/admin" type="button" class="btn" style=" background-image: linear-gradient(#A60000, #F60, #800);">Admin</a><a href="#">Screen Reader Access</a></div></div>
 
 <!===================================================Social Icon & time , date=====================================================>
 <div class="container" >
-<a href="https://www.facebook.com/UP-Basic-Education-1895607067351685/" target="_blank"><img src="<?php echo base_url()?>assets/images/facebook.png" class="social_icon"></a>
+<a href="#"><img src="<?php echo base_url()?>assets/images/facebook.png" class="social_icon"></a>
 <a href="#"><img src="<?php echo base_url()?>assets/images/in.png" class="social_icon"></a>
 <a href="#"><img src="<?php echo base_url()?>assets/images/pint.png" class="social_icon"></a>
-<a href="https://twitter.com/basic_up" target="_blank"><img src="<?php echo base_url()?>assets/images/twitter.png" class="social_icon"></a>
+<a href="#"><img src="<?php echo base_url()?>assets/images/twitter.png" class="social_icon"></a>
   <div class="row text-right" style="color:#fff; padding:5px 16px;">
   Today Date : <script>
 var now = new Date();
@@ -50,12 +50,12 @@ document.write(now.toLocaleTimeString());
           <li><a href="<?php echo base_url();?>index.php/welcome/about">हमारे  बारे में </a></li>
           <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">संगठनात्मक ढांचा <span class="caret"></span></a>
           <ul class="dropdown-menu">
-              <li><a href="https://basiceducationup.com/assets/pdf/structure.pdf" target="_blank">संगठनात्मक प्रारूप</a></li>
+              <li><a href="#">संगठनात्मक प्रारूप</a></li>
               <li><a href="<?php echo base_url();?>index.php/welcome/structure">संगठनात्मक सदस्य </a></li>
-              <li><a href="<?php echo base_url();?>index.php/welcome/member">सदस्य सूची </a></li>
+              <li><a href="#">सदस्य सूची </a></li>
 			</ul>
          </li>
-          <li><a href="<?php echo base_url();?>index.php/welcome/shasna">शासनादेश</a></li>
+          <li><a href="#">शासनादेश</a></li>
           <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">विद्यालय सूची<span class="caret"></span></a>
             <ul class="dropdown-menu">
               <li><a href="<?php echo base_url();?>assets/combinepdf.pdf" target="_blank">मान्यता प्राप्त विद्यालय</a></li>

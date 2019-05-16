@@ -102,13 +102,11 @@
 </div>
 <div class="col-sm-2 text-center notice">
   <img src="<?php echo base_url()?>assets/images/Yogi-4.jpg" height="100" class="img-thumbnail img" width="100" />
-  <p>माननीय मुख्यमंत्री </p>
+  <p>माननीय मुख्यमंत्री <br>श्री योगी आदित्यनाथ</p>
   <p><img src="<?php echo base_url()?>assets/images/dm.jpg" height="100" class="img-thumbnail img" width="100" />
-  <p>माननीय जिलाधिकारी</p>
+  <p>माननीय जिलाधिकारी <br>श्री राकेश कुमार सिंह </p>
   <p><img src="<?php echo base_url()?>assets/images/men.jpg" height="100" class="img-thumbnail img" width="100" />
   <p>माननीय बेसिक शिक्षा अधिकारी</p>
-    <p><img src="<?php echo base_url()?>assets/images/men.jpg" class="img-thumbnail img" height="100" width="100">
-  <p>डॉ सर्वेंद्र  विक्रम  बहादुर सिंह <br />शिक्षा निदेशक बेसिक(उ.प्र.)  
   <h4>महत्वपूर्ण लिंक </h4>
   <ul class="important"  id="imp">
       <li><a href="http://www.upbasiceducationboard.in/" target="_blank"> <i class="fa fa-angle-double-right"></i> बेसिक शिक्षा परिषद</a></li>

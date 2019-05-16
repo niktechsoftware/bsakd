@@ -106,10 +106,10 @@ function __construct()
 	}
 	
 	public function index(){
-		$data['title'] = "Website Notice Board";
-		$data['smallTitle'] = "Website/Notice Board";
-		$data['bigTitle'] = "Notice Board";
-		$data['body'] = "admin/noticeBoard";
+		$data['title'] = "Website Gallery";
+		$data['smallTitle'] = "Website/Gallery";
+		$data['bigTitle'] = "Gallery";
+		$data['body'] = "admin/gallery";
 		$data['headerCss'] = "admin/headerCss/studentRegisterCss";
 		$data['footerJs'] = "admin/footerJs/studentRegisterJs";
 		$this->load->view("include/admin/mainContent",$data);

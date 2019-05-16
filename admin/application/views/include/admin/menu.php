@@ -10,40 +10,40 @@
                         		<span class="arrow"></span>
                         	</a>
                             <ul class="sub-menu">
-                                <li><a href="<?php echo base_url();?>apanel/noticeBoard">NOTICE BOARD</a></li>
-                                <li><a href="<?php echo base_url();?>apanel/contact">CONTACT</a></li>
-                                <li><a href="<?php echo base_url();?>apanel/games">GAMES & SPORTS</a></li>
-                              <li><a href="<?php echo base_url();?>apanel/campus">CAMPUS</a></li>
+                              <!--  <li><a href="<?php echo base_url();?>apanel/noticeBoard">NOTICE BOARD</a></li>-->
+                              <!--  <li><a href="<?php echo base_url();?>apanel/contact">CONTACT</a></li>-->
+                              <!--  <li><a href="<?php echo base_url();?>apanel/games">GAMES & SPORTS</a></li>-->
+                              <!--<li><a href="<?php echo base_url();?>apanel/campus">CAMPUS</a></li>-->
                                 <li><a href="<?php echo base_url();?>apanel/gallery">GALLERY</a></li>
                                   <li><a href="<?php echo base_url();?>apanel/printRegister">Registration Form</a></li>
                                 
                             </ul>
                         </li>
-                        <li class="droplink"><a href="#"><span class="fa fa-mobile"></span><p>&nbsp;&nbsp;&nbsp;SMS TAB</p><span class="arrow"></span></a>
-                            <ul class="sub-menu">
+                        <!--<li class="droplink"><a href="#"><span class="fa fa-mobile"></span><p>&nbsp;&nbsp;&nbsp;SMS TAB</p><span class="arrow"></span></a>-->
+                        <!--    <ul class="sub-menu">-->
                                
                                
-                            </ul>
-                        </li>
-                        <li class="droplink">
-                        	<a href="#">
-                        		<span class="menu-icon icon-credit-card"></span>
-                        		<p>Fee</p>
-                        		<span class="arrow"></span>
-                        	</a>
-                            <ul class="sub-menu">
+                        <!--    </ul>-->
+                        <!--</li>-->
+                        <!--<li class="droplink">-->
+                        <!--	<a href="#">-->
+                        <!--		<span class="menu-icon icon-credit-card"></span>-->
+                        <!--		<p>Fee</p>-->
+                        <!--		<span class="arrow"></span>-->
+                        <!--	</a>-->
+                        <!--    <ul class="sub-menu">-->
 	                         
 	                       	
-                            </ul>
-                        </li>
-                        <li class="droplink">
-                        	<a href="#">
-                        		<span class="fa fa-briefcase"></span>
-                        		<p>&nbsp;&nbsp;&nbsp;Accounting</p>
-                        		<span class="arrow"></span>
-                        	</a>
+                        <!--    </ul>-->
+                        <!--</li>-->
+                        <!--<li class="droplink">-->
+                        <!--	<a href="#">-->
+                        <!--		<span class="fa fa-briefcase"></span>-->
+                        <!--		<p>&nbsp;&nbsp;&nbsp;Accounting</p>-->
+                        <!--		<span class="arrow"></span>-->
+                        <!--	</a>-->
                           
-                        </li>
+                        <!--</li>-->
                     </ul>
                 </div><!-- Page Sidebar Inner -->
             </div><!-- Page Sidebar -->

@@ -13,7 +13,7 @@ h2 { color:#CC0}
                 <form method="POST" action="https://basiceducationup.com/website/add_suggestion_details">
     	<div class="row" id="form"><h2 align="center">कृपया  अपना सुझाव / समस्या भरें</h2><br />
 
-    		<div class="col-sm-4">वर्ग</div>
+    		<div class="col-sm-4" style="color: white;">वर्ग</div>
             <div class="col-sm-8">
               <Select class="form" name="section" required="required">
                 <option value="Suggestion">सुझाव</option>
@@ -21,26 +21,26 @@ h2 { color:#CC0}
               </Select>
             </div>
             
-            <div class="col-sm-4">विषय </div>
+            <div class="col-sm-4" style="color: white;">विषय </div>
             <div class="col-sm-8"><input type="text" placeholder="अपना विषय यहाँ दर्ज करें" class="form" name="subject" required="required"></div>
             
-            <div class="col-sm-4">नाम </div>
+            <div class="col-sm-4" style="color: white;">नाम </div>
             <div class="col-sm-8"><input type="text" placeholder="अपना नाम यहाँ दर्ज करें" class="form" name="name" required="required"></div>
             
-            <div class="col-sm-4">जनपद  </div>
+            <div class="col-sm-4" style="color: white;">जनपद  </div>
             <div class="col-sm-8"><input type="text" placeholder="जनपद  का नाम दर्ज करें" class="form" name="district" required="required"></div>
             
-           	<div class="col-sm-4">ईमेल </div>
+           	<div class="col-sm-4" style="color: white;">ईमेल </div>
             <div class="col-sm-8"><input type="email" placeholder="अपना ई मेल यहा भरे" class="form" name="email" required="required"></div>
             
-            <div class="col-sm-4">मोबाइल </div>
+            <div class="col-sm-4" style="color: white;">मोबाइल </div>
             <div class="col-sm-8"><input type="text" placeholder="यहां अपना मोबाइल दर्ज करें" class="form" name="mobile" required="required"></div>
 
-            <div class="col-sm-4">टिप्पणी </div>
+            <div class="col-sm-4" style="color: white;">टिप्पणी </div>
             <div class="col-sm-8"><textarea class="form" style="height:70px; border-color:#036;" placeholder="कृपया अपने सुझाव / समस्याएं यहां लिखें( अधिकतम सीमा- 255 अक्षर)"  name="message" required="required" maxlength="250"></textarea></div><br />
             <div class="col-sm-4"></div>
-            <div class="col-sm-8"><input type="submit" value="सबमिट " class="btn-success" name="submit">
-            						<input type="reset" value="रीसेट" class="btn-warning"> </div>
+            <div class="col-sm-8"><input type="submit" value="सबमिट " class="btn" style=" background-image: linear-gradient(#A60000, #F60, #800); color: white;"name="submit">
+            						<input type="reset" value="रीसेट" class="btn" style=" background-image: linear-gradient(#A60000, #F60, #800); color: white;"> </div>
     	</form>
     </div>
     <div class="col-sm-3"></div>

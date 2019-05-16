@@ -54,7 +54,7 @@
                                               <td><img width="50" height="50" src="<?php echo base_url();?>assets/images/<?php echo $row->image; ?>" alt="" /></td>
                                                 <td><?php echo $row->date; ?></td>
                                                 <td>
-                                                	<a href="<?php echo base_url();?>apanelForms/deleteGallery/<?php echo $row->sno;?>">
+                                                	<a href="<?php echo base_url();?>apanelForms/deleteGallery/<?php echo $row->id;?>">
                                                 		Delete
                                                 	</a>
                                                 </td>

@@ -16,7 +16,7 @@
 <link href="<?php echo base_url()?>assets/css/lightbox.css" rel="stylesheet" type="text/css" />
 <link rel="stylesheet" href="<?php echo base_url()?>assets/css/jquery.dataTables.min.css">
 <script src="<?php echo base_url()?>assets/js/custom.js"></script>
-<title>बेसिक शिक्षा निदेशालय</title>
+<title>बेसिक शिक्षा अधिकारी</title>
 <style>
 .social_icon{
 	width:30px; 

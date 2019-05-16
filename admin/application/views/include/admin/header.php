@@ -3,7 +3,7 @@
 <head>
         
         <!-- Title -->
-        <title>बेसिक शिक्षा निदेशालय
+        <title>बेसिक शिक्षा अधिकारी
         </title>
         <meta content="width=device-width, initial-scale=1" name="viewport"/>
         <meta charset="UTF-8">

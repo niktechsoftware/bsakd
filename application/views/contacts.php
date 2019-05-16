@@ -1,14 +1,12 @@
 <style>
 .contact{background:url(images/contact.html); background-attachment:fixed; background-repeat:no-repeat}
-.btn { width:100%; height:40px; background:#FF5C0F; color:#fff; font-size:16px; font-family:Arial, Helvetica, sans-serif;}
-.btn:hover { color:#000; background:#F90;}
 .form{width:100%; margin:2px; height:40px; padding:10px 5px; background:rgba(0,0,0,0.5); color:#fff}
-.form_text{width:100%; height:140px;; margin:2px; background:rgba(0,0,0,0.5);color:#fff}
+.form_text{width:100%; height:140px; margin:2px; background:rgba(0,0,0,0.5);color:#fff}
 .add{ background:rgba(0,0,0,0.5); padding:20px 0px; text-align:center; margin-top:10px; font-size:16px }
 </style>
   <div class="container contact">
-    <div class="row" style="background:rgba(0,0,0,0.5); padding:30px 10px;"> <h2 align="center" style="color:#F60">संपर्क करें</h2> 
-        <div class="col-sm-4 add"><p style="color:#fff"><strong>पता: - </strong>बेसिक शिक्षा निदेशालय , कानपुर देहात <br />
+    <div class="row" style="background:rgba(0,0,0,0.5); padding:30px 10px;"> <h2 align="center" style="color: white;">संपर्क करें</h2> 
+        <div class="col-sm-4 add"><p style="color:#fff"><strong>पता: - </strong>बेसिक शिक्षा अधिकारी , कानपुर देहात <br />
           <strong>फ़ोन :- </strong>9453004157 </strong><br />
           <strong>ईमेल  :-</strong> info@basiceducationkd.com</strong></p></div>
           <div class="col-sm-8">
@@ -22,7 +20,7 @@
                 </div>
                 <div class="col-sm-6">
                 	<textarea class="form_text" placeholder="अपनी टिप्पणी यहां लिखें" name="message" required="required"></textarea>
-                    <input type="submit" value="सबमिट करें " class="btn" name="submit">
+                    <input type="submit" value="सबमिट करें" class="btn" style=" background-image: linear-gradient(#A60000, #F60, #800); width:100%;  color: white;" name="submit ">
                 </div></form>
           	</div>
           </div>

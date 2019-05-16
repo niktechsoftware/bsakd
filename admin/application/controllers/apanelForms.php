@@ -401,7 +401,7 @@ public function deleteCareer(){
 
 	
 	public function deleteGallery(){
-		$this->db->where("sno",$this->uri->segment(3));
+		$this->db->where("id",$this->uri->segment(3));
 		if($this->db->delete("gallery")){
 			redirect(base_url()."apanel/gallery");
 		}
